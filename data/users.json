@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "username": "alice.smith",
+    "phone": "+998901234001",
+    "password": "Pass1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "username": "bob.johnson",
+    "phone": "+998901234002",
+    "password": "Bob@2026"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "username": "charlie.brown",
+    "phone": "+998901234003",
+    "password": "Ch@rlie1"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "username": "david.wilson",
+    "phone": "+998901234004",
+    "password": "D@vidW"
+  },
+  {
+    "id": 6,
+    "name": "Frank Miller",
+    "username": "frank.miller",
+    "phone": "+998901234006",
+    "password": "Fr@nkM"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "username": "grace.lee",
+    "phone": "+998901234007",
+    "password": "Grace2026"
+  },
+  {
+    "id": 8,
+    "name": "Henry Taylor",
+    "username": "henry.taylor",
+    "phone": "+998901234008",
+    "password": "H3nryT"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Moore",
+    "username": "isabella.moore",
+    "phone": "+998901234009",
+    "password": "Is@bella1"
+  },
+  {
+    "id": 10,
+    "name": "Jack Anderson",
+    "username": "jack.anderson",
+    "phone": "+998901234010",
+    "password": "Jack@2026"
+  },
+  {
+    "id": 11,
+    "name": "Karen Thomas",
+    "username": "karen.thomas",
+    "phone": "+998901234011",
+    "password": "Kar3nT"
+  },
+  {
+    "id": 12,
+    "name": "Leo Martin",
+    "username": "leo.martin",
+    "phone": "+998901234012",
+    "password": "Le0M@rtin"
+  },
+  {
+    "id": 13,
+    "name": "Mia Jackson",
+    "username": "mia.jackson",
+    "phone": "+998901234013",
+    "password": "MiaJ123"
+  },
+  {
+    "id": 14,
+    "name": "Noah White",
+    "username": "noah.white",
+    "phone": "+998901234014",
+    "password": "N0ahW!"
+  },
+  {
+    "id": 15,
+    "name": "Olivia Harris",
+    "username": "olivia.harris",
+    "phone": "+998901234015",
+    "password": "Olivia@1"
+  },
+  {
+    "id": 16,
+    "name": "Peter Clark",
+    "username": "peter.clark",
+    "phone": "+998901234016",
+    "password": "P3terC"
+  },
+  {
+    "id": 17,
+    "name": "Quinn Lewis",
+    "username": "quinn.lewis",
+    "phone": "+998901234017",
+    "password": "QuinnL!"
+  },
+  {
+    "id": 18,
+    "name": "Ruby Robinson",
+    "username": "ruby.robinson",
+    "phone": "+998901234018",
+    "password": "Ruby2026"
+  },
+  {
+    "id": 19,
+    "name": "Sam Walker",
+    "username": "sam.walker",
+    "phone": "+998901234019",
+    "password": "S@mWalker"
+  },
+  {
+    "id": 20,
+    "name": "Tina Hall",
+    "username": "tina.hall",
+    "phone": "+998901234020",
+    "password": "TinaH@1"
+  },
+  {
+    "id": 21,
+    "name": "Umar Allen",
+    "username": "umar.allen",
+    "phone": "+998901234021",
+    "password": "Umar2026"
+  },
+  {
+    "id": 22,
+    "name": "Vera Young",
+    "username": "vera.young",
+    "phone": "+998901234022",
+    "password": "VeraY!"
+  },
+  {
+    "id": 23,
+    "name": "Will King",
+    "username": "will.king",
+    "phone": "+998901234023",
+    "password": "WillK2026"
+  },
+  {
+    "id": 24,
+    "name": "Xena Scott",
+    "username": "xena.scott",
+    "phone": "+998901234024",
+    "password": "XenaS1"
+  },
+  {
+    "id": 25,
+    "name": "Yara Green",
+    "username": "yara.green",
+    "phone": "+998901234025",
+    "password": "YaraG@2"
+  },
+  {
+    "id": 26,
+    "name": "Zane Adams",
+    "username": "zane.adams",
+    "phone": "+998901234026",
+    "password": "Zane@123"
+  },
+  {
+    "id": 27,
+    "name": "Aaron Bell",
+    "username": "aaron.bell",
+    "phone": "+998901234027",
+    "password": "Aar0nB"
+  },
+  {
+    "id": 28,
+    "name": "Bella Carter",
+    "username": "bella.carter",
+    "phone": "+998901234028",
+    "password": "Bell@C"
+  },
+  {
+    "id": 29,
+    "name": "Cody Mitchell",
+    "username": "cody.mitchell",
+    "phone": "+998901234029",
+    "password": "C0dyM!"
+  },
+  {
+    "id": 30,
+    "name": "Diana Perez",
+    "username": "diana.perez",
+    "phone": "+998901234030",
+    "password": "DianaP123"
+  },
+  {
+    "id": 31,
+    "name": "Alice Smith",
+    "username": "alice.smith",
+    "phone": "+998901234001",
+    "password": "Pass1234"
+  }
+]
