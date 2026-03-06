@@ -13,7 +13,6 @@ app.get("/", (req, res) => {
 
 app.get("/users", (req, res) =>{
     const data = JSON.parse(fs.readFileSync("./data/users.json", "utf-8"))
-
     res.json({
         success:true,
         data
@@ -109,16 +108,16 @@ app.delete("/users/:id", (req, res) => {
   const usersId = req.params.id;
   const data = JSON.parse(fs.readFileSync("./data/users.json"));
 
-  const taskIndex = data.findIndex((el) => el.id == usersId);
+  const usersIndex = data.findIndex((el) => el.id == usersId);
 
-  if (taskIndex === -1) {
+  if (usersIndex === -1) {
     res.status(404).send({
       message: `Berilgan ID: ${usersId} topilmadi`,
     });
     return;
   }
 
-  data.splice(taskIndex, 1);
+  data.splice(usersIndex, 1);
 
   fs.writeFileSync("./data/users.json", JSON.stringify(data, null, 2));
 

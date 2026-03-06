@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Alice Smith",
-    "username": "alice.smith",
-    "phone": "+998901234001",
-    "password": "Pass1234"
-  },
-  {
     "id": 2,
     "name": "Bob Johnson",
     "username": "bob.johnson",
@@ -204,7 +197,7 @@
   },
   {
     "id": 31,
-    "name": "Alice Smith",
+    "name": ";lkjh ",
     "username": "alice.smith",
     "phone": "+998901234001",
     "password": "Pass1234"
